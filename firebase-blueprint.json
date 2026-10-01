@@ -1,0 +1,128 @@
+{
+  "entities": {
+    "caseStudy": {
+      "title": "CaseStudy",
+      "description": "HR és ügyfélszolgálati esettanulmány feladat",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "caseNumber": { "type": "number" },
+        "title": { "type": "string" },
+        "category": { "type": "string" },
+        "difficulty": { "type": "string" },
+        "description": { "type": "string" },
+        "clientName": { "type": "string" },
+        "clientPersona": { "type": "string" },
+        "initialEmail": { "type": "string" },
+        "expectedKeywords": { "type": "array" },
+        "taskRequirements": { "type": "string" },
+        "emailRequirements": { "type": "string" },
+        "correctAction": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "title", "category"]
+    },
+    "customerStandard": {
+      "title": "CustomerStandard",
+      "description": "Minőségbiztosítási pillér és értékelési kritériumok",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "weight": { "type": "number" },
+        "criteria": { "type": "string" },
+        "isActive": { "type": "boolean" }
+      },
+      "required": ["id", "name", "weight"]
+    },
+    "employee": {
+      "title": "Employee",
+      "description": "Munkatárs és vezető adatok",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "email": { "type": "string" },
+        "role": { "type": "string" },
+        "department": { "type": "string" },
+        "jobTitle": { "type": "string" },
+        "active": { "type": "boolean" }
+      },
+      "required": ["id", "name", "email", "role"]
+    },
+    "assignment": {
+      "title": "Assignment",
+      "description": "Munkatársnak kiosztott esettanulmány feladat",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "caseId": { "type": "string" },
+        "employeeId": { "type": "string" },
+        "assignedById": { "type": "string" },
+        "assignmentType": { "type": "string" },
+        "status": { "type": "string" },
+        "deadline": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "instructions": { "type": "string" }
+      },
+      "required": ["id", "caseId", "employeeId", "status"]
+    },
+    "submission": {
+      "title": "Submission",
+      "description": "Munkatárs által beküldött megoldás és AI szakmai kiértékelés",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "caseId": { "type": "string" },
+        "employeeId": { "type": "string" },
+        "assignmentId": { "type": "string" },
+        "taskSolution": { "type": "string" },
+        "emailSolution": { "type": "string" },
+        "overallScore": { "type": "number" },
+        "taskScore": { "type": "number" },
+        "emailScore": { "type": "number" },
+        "status": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "caseId", "employeeId", "taskSolution", "emailSolution"]
+    },
+    "department": {
+      "title": "Department",
+      "description": "Szervezeti egység / részleg lista",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "list": { "type": "array" }
+      },
+      "required": ["id"]
+    }
+  },
+  "firestore": {
+    "/caseStudies/{caseStudyId}": {
+      "schema": "caseStudy",
+      "description": "Esettanulmányok gyűjteménye"
+    },
+    "/customerStandards/{standardId}": {
+      "schema": "customerStandard",
+      "description": "Minőségbiztosítási pillérek és kritériumok"
+    },
+    "/employees/{employeeId}": {
+      "schema": "employee",
+      "description": "Munkatársi névsor és jogosultságok"
+    },
+    "/assignments/{assignmentId}": {
+      "schema": "assignment",
+      "description": "Kiosztott esettanulmányok"
+    },
+    "/submissions/{submissionId}": {
+      "schema": "submission",
+      "description": "Beküldött feladatmegoldások és mesterséges intelligencia értékelések"
+    },
+    "/departments/{departmentId}": {
+      "schema": "department",
+      "description": "Szerkeszthető részlegek és osztályok listája"
+    }
+  }
+}

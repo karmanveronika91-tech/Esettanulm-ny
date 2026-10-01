@@ -1,0 +1,183 @@
+{
+  "caseStudies": [
+    {
+      "id": "case-1",
+      "caseNumber": 1,
+      "title": "Hazautazás a vendégmunkás-engedély hosszabbítása alatt",
+      "category": "Munkajog & Külföldi munkavállalók",
+      "isDefault": true,
+      "description": "A Fülöp-szigeteki munkavállalók jelenleg is a partnercég alkalmazásában állnak. Mivel kétéves munkaszerződésük és tartózkodási engedélyük lejárathoz közeledik, egyeztettünk a partnercéggel, ahonnan azt a visszajelzést kaptuk, hogy szeretnék meghosszabbítani a munkaviszonyukat, mert meg vannak velük elégedve, ezért kezdeményeztük a szerződésük meghosszabbításához szükséges Vendégmunkás tartózkodási engedélyek kérelmezését.\n\nA munkavállalók már megkapták a Vendégmunkás tájékoztató engedélyt papír alapon, azonban a plasztikkártyák kiállítása még folyamatban van. A kétéves foglalkoztatási időszak lejártával egyszeri hazautazásra is jogosultak.",
+      "taskQuestions": "1. Hazautazhat-e a munkavállaló?\n2. Milyen belső és külső szabályokra kell figyelni?\n3. Milyen nyomtatványokat kell kitölteni az utazás előtt?\n4. Mely jogszabályok irányadók?",
+      "communicationFocus": "Címzett: Érintett Fülöp-szigeteki munkavállalók\nKommunikációs fókusz: Közérthető tájékoztatás és egyértelmű teendők\nÍrj tájékoztató e-mailt a munkavállalóknak a tervezett hazautazás feltételeiről. A levélből pontosan derüljön ki, hogy mikor foglalható biztonsággal repülőjegy, és mit kell az indulás előtt elintézniük.\n\nAz e-mail térjen ki az alábbiakra:\n• miért szükséges az érvényes plasztik tartózkodási kártya a visszautazáshoz;\n• miért nem jelent önmagában elegendő igazolást a papíralapú tájékoztató engedély;\n• milyen határellenőrzési és légitársasági kockázat merülhet fel a kártya hiányában;\n• milyen belső nyilatkozatokat és esetleges partner-specifikus dokumentumokat kell kitölteni;\n• kihez fordulhatnak kérdéssel, és mi legyen a következő konkrét lépésük.",
+      "solutionGuide": "A vendégmunkás tájékoztató megléte önmagában nem elég a munkavállalók hazautazásához, rendelkezni kell a munkavállalónak minden esetben egy érvényes plasztik kártyával. A határrendészet ellenőrzi, hogy főleg a visszautazásnál rendelkezzen érvényes plasztik tartózkodási engedéllyel. Abban az esetben amennyiben fizikailag nincs a munkavállalónál a kártya dönthet úgy a határ rendész, hogy nem engedi fel a repülőgépre. A hosszabbításoknál érdemes megvárni az új kártya meglétét és ezután rendelni a repülőjegyeket.\n\nKivételes eset a kártyák kipostázása a Fülöp-szigetekre, lehetőség szerint kerüljük el ezt a megoldást.",
+      "sampleEmailTemplate": "Tisztelt Munkavállalók! Dear Employees,\n\nEzúton szeretnénk fontos és hivatalos tájékoztatást nyújtani a kétéves munkaszerződésetekhez kapcsolódó hazautazási szabadságról és a vendégmunkás tartózkodási engedélyek meghosszabbítási eljárásáról.\n\n1. TARTÓZKODÁSI ENGEDÉLY ÉS VISSZAUTAZÁS:\nA hatóságtól kapott papíralapú tájékoztató igazolás kizárólag Magyarország területén jogosít jogszerű tartózkodásra és munkavégzésre. A Fülöp-szigetekről Magyarországra történő visszautazáshoz a nemzetközi határrendészet és a légitársaságok KIZÁRÓLAG az érvényes fizikai plasztikkártyát fogadják el!\n\n2. REPÜLŐJEGY VÁSÁRLÁSA:\nKérjük, hogy repülőjegyet semmilyen körülmények között NE vásároljatok meg addig, amíg az új fizikai plasztikkártya kézhezvétele meg nem történt! Amennyiben a plasztikkártya nélkül utaztok el, a légitársaság megtagadja a felszállást a visszautazáskor, és nem tudtok visszatérni munkahelyetekre.\n\n3. TEENDŐK ÉS NYOMTATVÁNYOK AZ INDULÁS ELŐTT:\n• A tervezett szabadság előtt kötelező kitölteni a \"Repülőjegy visszavonás nyilatkozat szabadság utáni/hazautazási repülőjegyhez\" című Pannonjob nyomtatványt.\n• Egyeztetni kell a közvetlen műszakvezetővel és a Pannonjob koordinátorral a pontos távolléti időszakról.\n\nAmint a Bevándorlási Hivatal kiállítja és megküldi a fizikai kártyákat, azonnal értesítünk benneteket a személyes átvételről.\n\nKérdés esetén forduljatok bizalommal a Pannonjob kijelölt koordinátorához!\n\nÜdvözlettel:\nPannonjob Nemzetközi HR Csapat",
+      "legalAndForms": "Kitöltendő belső (Pannonjob-os) dokumentumok:\n• Repülőjegy visszavonás nyilatkozat szabadság utáni/ hazautazási repülőjegyhez\n• Egyéb specifikus, partner által kért nyilatkozat (ha van)\n\nJogszabályi háttér a megoldáshoz:\n• Fülöp-szigeteki szabályozás alapján a munkavállaló utazását a munkaviszony megkezdésekor, beutazáskor, valamint a munkaviszony végén, hazautazáskor köteles téríteni a munkáltató. Ennek egy kivételes esete, amikor hosszabbítást kap egy adott munkavállaló. Ilyenkor a Fülöp-szigeteki hatóságok szempontjából Ő egy új munkaviszony kezd, hiába szerződésmódosítással kerül rendezésre.\n• 2023. évi XC. törvény, a harmadik ország állampolgárainak Magyarországra történő belépésének és tartózkodásának általános szabályairól (Btátv)\n• 450/2024 (XII 23.) Korm. rendelet A vendégmunkások Magyarországon történő foglalkoztatásáról"
+    },
+    {
+      "id": "case-2",
+      "caseNumber": 2,
+      "title": "Betegszabadság és táppénz bejelentési eljárás téves ügyféltájékoztatása",
+      "category": "Munkajog & Ügyfélszolgálat",
+      "description": "Egy kölcsönzött munkavállaló meglátogatta az orvosát és keresőképtelen állományba került. Ezt azonban csak 5 nappal később jelezte a Pannonjob felelős koordinátorának, mondván, hogy \"az orvosi igazolást majd a gyógyulás után adja át\". A partnercég csoportvezetője emiatt igazolatlan hiányzásként könyvelte el a napokat, és panaszt tett.",
+      "taskQuestions": "1. Milyen kötelezettségei vannak a munkavállalónak betegség esetén?\n2. Milyen határidők vonatkoznak a bejelentésre és az igazolások leadására?\n3. Hogyan kell tájékoztatni a munkavállalót és a partnercéget az eljárásrendről?",
+      "communicationFocus": "Címzett: Érintett munkavállaló és Partnercég csoportvezetője\nKommunikációs fókusz: Tények tisztázása, elnézéskérés az esetleges félreértésért, konstruktív eljárási tájékoztató és határozott teendők a hiányzás rendezésére.",
+      "solutionGuide": "A keresőképtelenséget a munkavállalónak haladéktalanul (legkésőbb az első munkanap kezdetéig) jeleznie kell a közvetlen felettesének és a kölcsönző koordinátornak. Az orvosi igazolást (szabványos 'orvosi igazolás keresőképtelenségről' nyomtatvány) haladéktalanul, de legkésőbb 3 munkanapon belül be kell mutatni.\nA koordinátornak meg kell hallgatnia az ügyfelet, tisztáznia a helyzetet, és azonnali pótlási lehetőséget kell adnia (orvostól visszamenőleges igazolási igénylés), hogy az igazolatlan hiányzás módosításra kerülhessen.",
+      "sampleEmailTemplate": "Tisztelt Csoportvezető Úr! Kedves Partnerünk!\n\nKöszönjük a jelzést a keresőképtelenségi bejelentéssel kapcsolatban. Elnézést kérünk az adminisztrációs késedelemből fakadó félreértésért és kellemetlenségért.\n\nKollégánkkal egyeztettünk: orvosi vizsgálaton vett részt, és valóban keresőképtelen állományba került, azonban a leadási határidővel kapcsolatban téves információval rendelkezett. \n\nA helyzet mielőbbi és szabályos rendezésére az alábbi azonnali intézkedéseket tettük:\n1. Felvettük a kapcsolatot a munkavállaló háziorvosával a hivatalos orvosi igazolás haladéktalan, elektronikus / személyes kiállítása és átadása érdekében.\n2. Kitöltöttük a Pannonjob 'Keresőképtelenségi bejelentő' nyomtatványt, és benyújtjuk a 'Jelenléti ív korrekciós kérelmet', hogy a hiányzás igazolt betegszabadságként / táppénzként kerüljön rögzítésre az igazolatlan státusz helyett.\n3. A munkavállalót írásban tájékoztattuk a Munka Törvénykönyve szerinti haladéktalan bejelentési kötelezettségről az elkövetkező esetekre.\n\nKérem, tekintse át a mellékelt korrekciós kérelmet. Bármilyen további kérdés esetén személyesen állok rendelkezésére!\n\nÜdvözlettel:\nPannonjob Ügyfélszolgálati és Kölcsönzési Csapat",
+      "legalAndForms": "Kitöltendő belső dokumentumok:\n• Keresőképtelenségi bejelentő nyomtatvány\n• Jelenléti ív korrekciós kérelem\n\nJogszabályi háttér:\n• Mt. (2012. évi I. törvény) a munkavállaló együttműködési és tájékoztatási kötelezettségéről\n• 1997. évi LXXXIII. törvény a kötelező egészségbiztosítás ellátásairól"
+    }
+  ],
+  "customerStandards": [
+    {
+      "id": "pillar-1",
+      "title": "Ügyfélközpontúság",
+      "category": "Alapvető Ügyfélszolgálati Attitűd",
+      "description": "Minden ügyfélmegkeresésre visszajelzést adunk, egyértelműen és érthetően kommunikálunk, panasz esetén a megoldásra fókuszálunk.",
+      "isActive": true,
+      "subPoints": [
+        {
+          "id": "p1-1",
+          "title": "Visszajelzés minden megkeresésre",
+          "description": "Az e-mailt vagy kérést akkor sem hagyjuk válasz nélkül, ha még nincs kész megoldás. Röviden jelezzük, hogy megkaptuk, s megadjuk, mikorra várható a következő információ. Konkrét, ellenőrizhető vállalást teszünk."
+        },
+        {
+          "id": "p1-2",
+          "title": "Egyértelmű folyamatkommunikáció",
+          "description": "Világosan kommunikáljuk, mi történt, mi következik, ki foglalkozik az üggyel. Kerüljük a bizonytalan kifejezéseket: \"folyamatban van\", \"hamarosan jelentkezünk\"."
+        },
+        {
+          "id": "p1-3",
+          "title": "Érthető és lényegre törő megfogalmazás",
+          "description": "Kerüljük a szakzsargont, a belső rövidítéseket és a felesleges magyarázatokat. Mindig azt az információt adjuk át, ami segíti a megértést."
+        },
+        {
+          "id": "p1-4",
+          "title": "Panasz esetén megoldásfókusz",
+          "description": "Meghallgatjuk az ügyfelet, elismerjük az okozott kellemetlenséget, és a megoldásra/kárenyhítésre törekszünk."
+        },
+        {
+          "id": "p1-5",
+          "title": "Ügyfélre gyakorolt hatás mérlegelése",
+          "description": "Mérlegeljük, hogy döntéseink mennyi várakozást, bizonytalanságot vagy többletmunkát okoznak az ügyfélnek."
+        }
+      ]
+    },
+    {
+      "id": "pillar-2",
+      "title": "Proaktivitás és Felelősségvállalás",
+      "category": "Proaktivitás",
+      "description": "Az ügyet a megoldásig sajátunknak tekintjük, nem várjuk meg míg a probléma az ügyfélnél kopogtat, s alternatívákat kínálunk.",
+      "isActive": true,
+      "subPoints": [
+        {
+          "id": "p2-1",
+          "title": "Ügy sajátként kezelése lezárásig",
+          "description": "Nem tekintjük lezártnak az ügyet csak azért, mert továbbítottuk egy kollégának. Nyomon követjük a teljes folyamatot."
+        },
+        {
+          "id": "p2-2",
+          "title": "Proaktív hibajelzés és megelőzés",
+          "description": "Ha látjuk, hogy valami nem a tervek szerint alakul, időben jelezzük – megoldási javaslattal együtt."
+        },
+        {
+          "id": "p2-3",
+          "title": "Felelősségvállalás hibázáskor",
+          "description": "Nem hárítjuk a felelősséget másra. Elnézést kérünk, ismertetjük a javító intézkedést és a megelőzést."
+        },
+        {
+          "id": "p2-4",
+          "title": "Megoldási alternatívák kínálása",
+          "description": "Ha az eredeti kérés nem teljesíthető, elmagyarázzuk az okát, reális határidőt adunk és alternatívát javaslunk."
+        }
+      ]
+    },
+    {
+      "id": "pillar-3",
+      "title": "Együttműködés és Csapatszellem",
+      "category": "Belső és Külső Együttműködés",
+      "description": "Nem kérjük be többször ugyanazt az adatot, tisztelettel kommunikálunk és tudatosítjuk, hogy a belső együttműködés minősége látható az ügyfélnek.",
+      "isActive": true,
+      "subPoints": [
+        {
+          "id": "p3-1",
+          "title": "Adatok többszöri bekérésének kerülése",
+          "description": "Mielőtt adatot kérünk, ellenőrizzük, hogy az már rendelkezésünkre áll-e vagy belső egyeztetéssel beszerezhető-e."
+        },
+        {
+          "id": "p3-2",
+          "title": "Tiszteletteljes kommunikáció",
+          "description": "Akkor sem válunk türelmetlenné vagy védekezővé, ha az ügyfél elégedetlen."
+        },
+        {
+          "id": "p3-3",
+          "title": "Közös felelősség az ügyfélélményért",
+          "description": "Minden munkatárs felelős azért, hogy döntései hogyan hatnak az ügyfélélményre."
+        }
+      ]
+    },
+    {
+      "id": "pillar-4",
+      "title": "Tudásközpontúság és Szakmai Tapasztalat",
+      "category": "Szakmaiság",
+      "description": "Pontosan megértjük az ügyfél igényét kérdések tisztázásával, s az ügyeket az üzleti hatás alapján priorizáljuk.",
+      "isActive": true,
+      "subPoints": [
+        {
+          "id": "p4-1",
+          "title": "Pontos igényfelmérés",
+          "description": "Nem feltételezések alapján dolgozunk. Kérdésekkel tisztázzuk az elvárt eredményt, sürgősséget és fontos szempontokat."
+        },
+        {
+          "id": "p4-2",
+          "title": "Üzleti hatás alapú priorizálás",
+          "description": "Figyelembe vesszük a probléma következményeit, kockázatát és az ügyfél működésére gyakorolt hatását."
+        }
+      ]
+    },
+    {
+      "id": "pillar-5",
+      "title": "Folyamatos Fejlődés",
+      "category": "Minőségfejlesztés",
+      "description": "A hibák kiváltó okát szüntetjük meg, s rendszeresen visszajelzést kérünk.",
+      "isActive": true,
+      "subPoints": [
+        {
+          "id": "p5-1",
+          "title": "Rendszerszintű okmegszüntetés",
+          "description": "Megvizsgáljuk a kiváltó okokat, s a visszatérő problémákat rendszerszinten kezeljük."
+        }
+      ]
+    },
+    {
+      "id": "pillar-6",
+      "title": "Törvényes Működés",
+      "category": "Compliance & Jogszabályi Megfelelőség",
+      "description": "Nem mondunk mindenre igent, ha az jogszabályba, szerződésbe vagy szakmai szabályba ütközik – ezt őszintén s érthetően kommunikáljuk alternatívával.",
+      "isActive": true,
+      "subPoints": [
+        {
+          "id": "p6-1",
+          "title": "Jogszabályi és szakmai határok tiszteletben tartása",
+          "description": "Ha a kérés jogszabályba ütközik, ezt őszintén és érthetően kommunikáljuk, reális vállalást teszünk, s alternatívát kínálunk."
+        }
+      ]
+    }
+  ],
+  "employees": [
+    {
+      "id": "emp-karman-veronika",
+      "name": "Kármán Veronika",
+      "email": "karman.veronika91@gmail.com",
+      "username": "karman.veronika",
+      "department": "HR és Minőségbiztosítás",
+      "position": "HR Vezető & Minőségbiztosítási Auditor",
+      "role": "admin",
+      "password": "Karman123",
+      "defaultPassword": "Karman123",
+      "mustChangePassword": true,
+      "active": true
+    }
+  ],
+  "assignments": [],
+  "submissions": [],
+  "lastUpdated": "2026-09-16T07:10:30.724Z"
+}

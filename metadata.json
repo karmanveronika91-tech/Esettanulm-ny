@@ -1,0 +1,6 @@
+{
+  "name": "Esettanulmányok",
+  "description": "HR és ügyfélszolgálati esettanulmányok, feladatmegoldások és tájékoztató levelek szakmai minősítése és értékelése.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
